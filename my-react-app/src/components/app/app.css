@@ -1,0 +1,26 @@
+.app {
+  height: 100vh;
+  color: black;
+  margin: 0 auto;
+}
+
+.content {
+  max-width: 1000px;
+  background-color: #fff;
+  margin: 0 auto;
+  padding: 5rem;
+}
+.search-panel {
+  margin-top: 1.5rem;
+  max-width: 1000px;
+  /* margin: 0 auto; */
+  padding: 1.5rem;
+  border-radius: 4px;
+  background-color: #fafcf5;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0.15);
+}
+
+.counter {
+  margin: 0 auto;
+  width: 500px;
+}
